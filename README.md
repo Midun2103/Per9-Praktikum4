@@ -14,7 +14,7 @@ Ada dua bahan praktik dimodule 4 kali ini yaitu :
 
  1.   Soal Latihan yang ada pada module praktikum 4
 
-![GAMBAR](GAMBAR/SoalLatihan.png)
+![Praktekum4](Praktekum4/../SoalLatihan.png)
 
 
  -  Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut
@@ -61,10 +61,10 @@ Ada dua bahan praktik dimodule 4 kali ini yaitu :
         print(gabung)
 
  -  Berikut hasil run syntax untuk memenuhi latihan module 4 diatas :
-![GAMBAR](GAMBAR/Gambar3.png)
+![Praktikum4](Praktikum4/../hasil1.png)
 
  1.  Soal Tugas praktikum module 4
-![GAMBAR](GAMBAR/Tugas%20Pratikum.png)
+![Praktikum4](Praktikum4/../Tugas%20Pratikum.png)
 
  -  Pada soal tugas ini saya akan menulis dan menjelaskan syntax yang saya buat sebagai berikut
         print("===================================================================")
@@ -114,12 +114,12 @@ Ada dua bahan praktik dimodule 4 kali ini yaitu :
 
     
  -  Berikut hasil run syntax yang saya buat untuk memenuhi praktikum module 4 :
-![GAMBAR](GAMBAR/Gambar6.jpg)
+![Praktikum4](Praktikum4/../hasil2.jpg)
 
 
  -  Flowchart program diatas adalah sebagai berikut
 
-![GAMBAR](GAMBAR/Flowchart.png)
+![Praktikum4](Praktikum4/../Flowchart.png)
 
     -   Penjelasan singkat tentang fungsi While untuk mengatur kondisi seperti while not stop dan jika tidak
         berhenti maka system akan terus menampilkan perintah user untuk meninputkan data . Untuk perhitungan nilai
